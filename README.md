@@ -4,8 +4,8 @@ A React application that interfaces with the [SDN screening backend](https://git
 **Clone the repository**
 ```
 git clone https://github.com/lesterlimwh/sdn-screener-ui.git
-``
-** Start the React Web App **
+```
+**Start the React Web App**
 ```
 npm start
 ```
